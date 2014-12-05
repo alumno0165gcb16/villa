@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VisualLightBox>
+    <Gallery version="2.5">
+        <Settings>
+            <AppName>WOW Slider</AppName>
+            <AppUrlS>WOWSlider.com</AppUrlS>
+            <AppVersion>4.8</AppVersion>
+            <AutoPlay>true</AutoPlay>
+            <Captions>true</Captions>
+            <CaptionsEffect>slide</CaptionsEffect>
+            <Controls>true</Controls>
+            <GalleryName>Villa Iluminada</GalleryName>
+            <GallerySuffix>1</GallerySuffix>
+            <HtmlCharset>UTF-8</HtmlCharset>
+            <ImageAspectRatio>true</ImageAspectRatio>
+            <ImageEffect>domino</ImageEffect>
+            <ImageFillColor>#FFFFFF</ImageFillColor>
+            <ImageHeight>360</ImageHeight>
+            <ImageQuality>90</ImageQuality>
+            <ImageShrink2>false</ImageShrink2>
+            <ImageStretch>true</ImageStretch>
+            <ImageTemplate>C:/Program Files (x86)/WOW Slider/templates/backgnd/salient/</ImageTemplate>
+            <ImageTemplateName>Salient</ImageTemplateName>
+            <ImageWidth>960</ImageWidth>
+            <Images>true</Images>
+            <JoomlaType>2.5</JoomlaType>
+            <OneLoop>false</OneLoop>
+            <OrderRandom>false</OrderRandom>
+            <PlayPause>true</PlayPause>
+            <Preloader>false</Preloader>
+            <PublishFileName>I:/DAM2/3er Parcial/aplicacion08/galeria/villa.html</PublishFileName>
+            <PublishIndex>villa.html</PublishIndex>
+            <PublishPath>I:/DAM2/3er Parcial/aplicacion08/galeria</PublishPath>
+            <PublishPreview>true</PublishPreview>
+            <PublishType>file</PublishType>
+            <RelativePath>false</RelativePath>
+            <ShowBullets>true</ShowBullets>
+            <ShowTooltips>true</ShowTooltips>
+            <SlideshowDelay>20</SlideshowDelay>
+            <SlideshowDuration>20</SlideshowDuration>
+            <SoundEnable>0</SoundEnable>
+            <SoundFileName></SoundFileName>
+            <StopOnHover>false</StopOnHover>
+            <TemplateName>salient</TemplateName>
+            <ThumbAlign>bottom</ThumbAlign>
+            <ThumbFormat>jpg</ThumbFormat>
+            <ThumbHeight>48</ThumbHeight>
+            <ThumbQuality>90</ThumbQuality>
+            <ThumbWidth>0</ThumbWidth>
+            <Thumbnails>false</Thumbnails>
+            <TooltipPos>bottom</TooltipPos>
+            <noFrame>false</noFrame>
+        </Settings>
+        <Images RelativePath="false">
+            <Image>
+                <url>I:/DAM2/3er Parcial/aplicacion08/imagenes/1.jpg</url>
+                <title>1</title>
+            </Image>
+            <Image>
+                <url>I:/DAM2/3er Parcial/aplicacion08/imagenes/3.jpg</url>
+                <title>3</title>
+            </Image>
+            <Image>
+                <url>I:/DAM2/3er Parcial/aplicacion08/imagenes/4.jpg</url>
+                <title>4</title>
+            </Image>
+            <Image>
+                <url>I:/DAM2/3er Parcial/aplicacion08/imagenes/5.jpg</url>
+                <title>5</title>
+            </Image>
+            <Image>
+                <url>I:/DAM2/3er Parcial/aplicacion08/imagenes/6.jpg</url>
+                <title>6</title>
+            </Image>
+            <Image>
+                <url>I:/DAM2/3er Parcial/aplicacion08/imagenes/7.jpg</url>
+                <title>7</title>
+            </Image>
+            <Image>
+                <url>I:/DAM2/3er Parcial/aplicacion08/imagenes/8.jpg</url>
+                <title>8</title>
+            </Image>
+            <Image>
+                <url>I:/DAM2/3er Parcial/aplicacion08/imagenes/11.jpg</url>
+                <title>11</title>
+            </Image>
+            <Image>
+                <url>I:/DAM2/3er Parcial/aplicacion08/imagenes/14.jpg</url>
+                <title>14</title>
+            </Image>
+            <Image>
+                <url>I:/DAM2/3er Parcial/aplicacion08/imagenes/15.jpg</url>
+                <title>15</title>
+            </Image>
+            <Image>
+                <url>I:/DAM2/3er Parcial/aplicacion08/imagenes/17.jpg</url>
+                <title>17</title>
+            </Image>
+            <Image>
+                <url>I:/DAM2/3er Parcial/aplicacion08/imagenes/18.jpg</url>
+                <title>18</title>
+            </Image>
+            <Image>
+                <url>I:/DAM2/3er Parcial/aplicacion08/imagenes/20.jpg</url>
+                <title>20</title>
+            </Image>
+            <Image>
+                <url>I:/DAM2/3er Parcial/aplicacion08/imagenes/21.jpg</url>
+                <title>21</title>
+            </Image>
+            <Image>
+                <url>I:/DAM2/3er Parcial/aplicacion08/imagenes/23.jpg</url>
+                <title>23</title>
+            </Image>
+            <Image>
+                <url>I:/DAM2/3er Parcial/aplicacion08/imagenes/24.jpg</url>
+                <title>24</title>
+            </Image>
+            <Image>
+                <url>I:/DAM2/3er Parcial/aplicacion08/imagenes/25.jpg</url>
+                <title>25</title>
+            </Image>
+            <Image>
+                <url>I:/DAM2/3er Parcial/aplicacion08/imagenes/26.jpg</url>
+                <title>26</title>
+            </Image>
+            <Image>
+                <url>I:/DAM2/3er Parcial/aplicacion08/imagenes/27.jpg</url>
+                <title>27</title>
+            </Image>
+            <Image>
+                <url>I:/DAM2/3er Parcial/aplicacion08/imagenes/30.jpg</url>
+                <title>30</title>
+            </Image>
+            <Image>
+                <url>I:/DAM2/3er Parcial/aplicacion08/imagenes/32.jpg</url>
+                <title>32</title>
+            </Image>
+            <Image>
+                <url>I:/DAM2/3er Parcial/aplicacion08/imagenes/34.jpg</url>
+                <title>34</title>
+            </Image>
+            <Image>
+                <url>I:/DAM2/3er Parcial/aplicacion08/imagenes/36.jpg</url>
+                <title>36</title>
+            </Image>
+            <Image>
+                <url>I:/DAM2/3er Parcial/aplicacion08/imagenes/37.jpg</url>
+                <title>37</title>
+            </Image>
+            <Image>
+                <url>I:/DAM2/3er Parcial/aplicacion08/imagenes/38.jpg</url>
+                <title>38</title>
+            </Image>
+        </Images>
+    </Gallery>
+</VisualLightBox>
